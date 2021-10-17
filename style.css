@@ -475,7 +475,7 @@ table {
   position: absolute;
   left: 0;
   top: 5px;
-  color: #19bdce;
+  color: #000fff;
   font-size: 36px;
 }
 .feature.left-icon [class="icon-jetski"] {
@@ -485,12 +485,12 @@ table {
   font-size: 16px;
   font-size: 1em;
   font-weight: 400;
-  color: #19bdce;
+  color: #000fff;
 }
 
 .button {
   padding: 5px 30px;
-  background-color: #19bdce;
+  background-color: #000fff;
   border: none;
   border-radius: 5px;
   color: white;
@@ -503,7 +503,7 @@ table {
   font-size: 0.8125em;
 }
 .button:hover, .button:active {
-  background-color: #34d6e6;
+  background-color: #000;
 }
 
 .offer {
@@ -590,7 +590,7 @@ table {
   text-decoration: none;
 }
 .list-arrow li a:hover {
-  color: #19bdce;
+  color: #000fff;
 }
 .list-arrow.alt {
   font-size: 15px;
@@ -644,8 +644,8 @@ table {
   margin: auto;
 }
 .boxed-link:hover {
-  border-color: #19bdce;
-  color: #19bdce;
+  border-color: #000fff;
+  color: #000fff;
 }
 
 .team {
@@ -703,7 +703,7 @@ table {
   text-align: center;
   border: 1px solid #f1f1f1;
   font-weight: 700;
-  color: #19bdce;
+  color: #000fff;
   line-height: 30px;
   font-size: 13px;
   font-size: 0.8125em;
@@ -724,8 +724,8 @@ table {
           transition: .3s ease;
 }
 .filter-links a:hover {
-  border-color: #19bdce;
-  color: #19bdce;
+  border-color: #000fff;
+  color: #000fff;
 }
 .filter-links .mobile-filter {
   display: none;
@@ -766,8 +766,8 @@ table {
           transition: .3s ease;
 }
 .pagination .page-numbers:hover, .pagination .page-numbers.current {
-  border-color: #19bdce;
-  color: #19bdce;
+  border-color: #000fff;
+  color: #000fff;
 }
 
 .offer-item {
@@ -794,7 +794,7 @@ table {
   text-decoration: none;
 }
 .offer-item .price strong {
-  color: #19bdce;
+  color: #000fff;
   font-size: 24px;
   font-size: 1.5em;
   font-weight: 300;
@@ -824,7 +824,7 @@ table {
   outline: none;
 }
 .contact-form input:not([type="submit"]):hover, .contact-form textarea:hover {
-  border-color: #19bdce;
+  border-color: #000fff;
 }
 .contact-form textarea {
   min-height: 100px;
@@ -874,14 +874,7 @@ table {
   color: #51BAFF;
   border-color: #51BAFF;
 }
-.social-links a.google-plus:hover {
-  color: #FF7B51;
-  border-color: #FF7B51;
-}
-.social-links a.pinterest:hover {
-  color: #E42626;
-  border-color: #E42626;
-}
+
 
 .filterable-items .filterable-item {
   -webkit-transition-property: -webkit-transform, opacity;
@@ -2231,7 +2224,7 @@ body {
   }
 }
 .main-navigation .menu li.current-menu-item a, .main-navigation .menu li:hover a {
-  color: #19bdce;
+  color: #000fff;
 }
 
 .breadcrumbs {
@@ -2251,7 +2244,7 @@ body {
 .breadcrumbs span {
   display: inline-block;
   padding: 0 10px;
-  color: #19bdce;
+  color: #000fff;
 }
 
 .slider {
@@ -2359,7 +2352,7 @@ body {
   cursor: pointer;
 }
 .slider .flexslider-controls .flex-control-nav li.flex-active a {
-  background-color: #19bdce;
+  background-color: #000fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2426,7 +2419,7 @@ figure img {
   margin-right: 5px;
 }
 .site-footer .contact-links a:hover {
-  color: #19bdce;
+  color: #000fff;
 }
 .site-footer .colophon {
   border-top: 1px solid #d1d1d1;
@@ -2464,7 +2457,7 @@ figure img {
           transition: .3s ease;
 }
 .site-footer .widget-customer-info .cs-info a:hover {
-  color: #19bdce;
+  color: #000fff;
 }
 @media screen and (max-width: 480px) {
   .site-footer .container, .site-footer .slider .flexslider-controls .flex-control-nav, .slider .flexslider-controls .site-footer .flex-control-nav {
