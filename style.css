@@ -2071,9 +2071,9 @@ body {
   position: relative;
 }
 .site-header .header-content {
-  background: #000000;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  background: #000fff99;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
   *zoom: 1;
   font-size: 20px;
   color: #ffffff;
@@ -2289,9 +2289,9 @@ body {
   position: absolute;
   right: 15px;
   bottom: 20px;
-  background: #000000b5;
+  background: #00000069;
   padding: 30px;
-  border-radius: 5px;
+  border-radius: 50px;
   height: 355px;
   top: 90px;
   margin: auto;
