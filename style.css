@@ -37,7 +37,7 @@ audio:not([controls]) {
 }
 
 html {
-  background: white;
+  background: rgb(0, 0, 0);
   color: black;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -465,6 +465,7 @@ table {
   font-weight: 300;
   margin-top: 30px;
   margin-bottom: 50px;
+  text-align: center;
 }
 
 .feature.left-icon {
@@ -857,8 +858,8 @@ table {
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  border: 1px solid #c7cfd0;
-  color: #c7cfd0;
+  border: 1px solid #ffffff;
+  color: #ffffff;
   text-decoration: none;
   display: inline-block;
   text-align: center;
@@ -2060,9 +2061,9 @@ table {
 body {
   font-family: "Open Sans", serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 24px;
-  color: #818c8d;
+  color: #cbcbce;
 }
 
 .site-header {
@@ -2070,10 +2071,11 @@ body {
   position: relative;
 }
 .site-header .header-content {
-  background: white;
+  background: #000000;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   *zoom: 1;
+  font-size: 20px;
 }
 .site-header .header-content:after {
   content: " ";
@@ -2268,7 +2270,7 @@ body {
   margin-right: -100%;
   float: left;
   width: 100%;
-  height: 700px;
+  height: 1080px;
 }
 .slider .slides li img {
   width: 100%;
@@ -2286,12 +2288,13 @@ body {
   position: absolute;
   right: 15px;
   bottom: 20px;
-  background: white;
+  background: rgb(0, 0, 0);
   padding: 30px;
   border-radius: 5px;
   height: 355px;
   top: 90px;
   margin: auto;
+  font-size: 15px;
 }
 @media screen and (max-width: 990px) {
   .slider .slides li .slide-caption {
@@ -2371,14 +2374,14 @@ figure img {
 }
 
 .site-footer {
-  background-color: #f1f1f1;
+  background-color: #0d0d0d;
   font-size: 13px;
 }
 .site-footer .footer-top {
   padding: 50px 0;
 }
 .site-footer .footer-bottom {
-  background: #e7e7e7;
+  background: #0d0d0d;
   padding: 50px 0;
 }
 .site-footer .branding .site-title {
@@ -2422,8 +2425,8 @@ figure img {
   color: #000fff;
 }
 .site-footer .colophon {
-  border-top: 1px solid #d1d1d1;
-  background: #e7e7e7;
+  border-top: 1px solid #0d0d0d;
+  background: #0d0d0d;
   padding: 20px 0;
 }
 @media screen and (max-width: 480px) {
