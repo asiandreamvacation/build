@@ -37,7 +37,7 @@ audio:not([controls]) {
 }
 
 html {
-  background: rgb(0, 0, 0);
+  background: #ffffff;
   color: black;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -2288,13 +2288,14 @@ body {
   position: absolute;
   right: 15px;
   bottom: 20px;
-  background: rgb(0, 0, 0);
+  background: #000000b5;
   padding: 30px;
   border-radius: 5px;
   height: 355px;
   top: 90px;
   margin: auto;
   font-size: 15px;
+  text-align: center;
 }
 @media screen and (max-width: 990px) {
   .slider .slides li .slide-caption {
@@ -2374,22 +2375,22 @@ figure img {
 }
 
 .site-footer {
-  background-color: #0d0d0d;
-  font-size: 13px;
+  background-color: #000000;
+  font-size: 15px;
 }
 .site-footer .footer-top {
   padding: 50px 0;
 }
 .site-footer .footer-bottom {
-  background: #0d0d0d;
+  background: #000000;
   padding: 50px 0;
 }
 .site-footer .branding .site-title {
-  font-size: 14px;
+  font-size: 15px;
   line-height: normal;
 }
 .site-footer .branding .site-description {
-  font-size: 10px;
+  font-size: 15px;
 }
 @media screen and (max-width: 480px) {
   .site-footer .branding {
@@ -2411,7 +2412,7 @@ figure img {
   }
 }
 .site-footer .contact-links a {
-  color: #818c8d;
+  color: #ffffff;
   text-decoration: none;
   margin-left: 30px;
   -webkit-transition: .3s ease;
@@ -2425,8 +2426,8 @@ figure img {
   color: #000fff;
 }
 .site-footer .colophon {
-  border-top: 1px solid #0d0d0d;
-  background: #0d0d0d;
+  border-top: 1px solid #000000;
+  background: #000000;
   padding: 20px 0;
 }
 @media screen and (max-width: 480px) {
