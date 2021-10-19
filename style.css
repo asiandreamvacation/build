@@ -591,7 +591,7 @@ table {
   text-decoration: none;
 }
 .list-arrow li a:hover {
-  color: #000fff;
+  color: #000;
 }
 .list-arrow.alt {
   font-size: 15px;
@@ -725,8 +725,8 @@ table {
           transition: .3s ease;
 }
 .filter-links a:hover {
-  border-color: #000fff;
-  color: #000fff;
+  border-color: #fff;
+  color: #000;
 }
 .filter-links .mobile-filter {
   display: none;
@@ -767,8 +767,8 @@ table {
           transition: .3s ease;
 }
 .pagination .page-numbers:hover, .pagination .page-numbers.current {
-  border-color: #000fff;
-  color: #000fff;
+  border-color: #fff;
+  color: #000;
 }
 
 .offer-item {
@@ -825,7 +825,7 @@ table {
   outline: none;
 }
 .contact-form input:not([type="submit"]):hover, .contact-form textarea:hover {
-  border-color: #000fff;
+  border-color: #000;
 }
 .contact-form textarea {
   min-height: 100px;
@@ -868,12 +868,12 @@ table {
           transition: .3s ease;
 }
 .social-links a.facebook:hover {
-  color: #435AA3;
-  border-color: #435AA3;
+  color: #fff;
+  border-color: #000;
 }
 .social-links a.twitter:hover {
-  color: #51BAFF;
-  border-color: #51BAFF;
+  color: #fff;
+  border-color: #000;
 }
 
 
@@ -2233,7 +2233,7 @@ body {
   }
 }
 .main-navigation .menu li.current-menu-item a, .main-navigation .menu li:hover a {
-  color: #000fff;
+  color: #000;
 }
 
 .breadcrumbs {
@@ -2384,7 +2384,7 @@ figure img {
 }
 
 .site-footer {
-  background-color: #000000;
+  background-color: #000fff;
   font-size: 15px;
   color:#ffffff
 }
@@ -2392,7 +2392,7 @@ figure img {
   padding: 50px 0;
 }
 .site-footer .footer-bottom {
-  background: #000000;
+  background: #000fff;
   padding: 50px 0;
 }
 .site-footer .branding .site-title {
@@ -2433,11 +2433,11 @@ figure img {
   margin-right: 5px;
 }
 .site-footer .contact-links a:hover {
-  color: #000fff;
+  color: #000000;
 }
 .site-footer .colophon {
-  border-top: 1px solid #000000;
-  background: #000000;
+  border-top: 1px solid #000fff;
+  background: #000fff;
   padding: 20px 0;
 }
 @media screen and (max-width: 480px) {
@@ -2466,12 +2466,12 @@ figure img {
 }
 .site-footer .widget-customer-info .cs-info a {
   text-decoration: none;
-  color: #818c8d;
+  color: #ffffff;
   -webkit-transition: .3s ease;
           transition: .3s ease;
 }
 .site-footer .widget-customer-info .cs-info a:hover {
-  color: #000fff;
+  color: #000000;
 }
 @media screen and (max-width: 480px) {
   .site-footer .container, .site-footer .slider .flexslider-controls .flex-control-nav, .slider .flexslider-controls .site-footer .flex-control-nav {
