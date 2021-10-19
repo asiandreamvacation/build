@@ -48,7 +48,7 @@ button,
 input,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 body {
@@ -117,7 +117,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 1em;
 }
 
@@ -2064,7 +2064,7 @@ table {
   }
 }
 body {
-  font-family: "Open Sans", serif;
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 300;
   font-size: 16px;
   line-height: 24px;
