@@ -2071,7 +2071,7 @@ body {
   position: relative;
 }
 .site-header .header-content {
-  background: #000fff99;
+  background: #000fff;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 50px;
   *zoom: 1;
@@ -2086,7 +2086,7 @@ body {
   height: 0;
 }
 .site-header .branding {
-  padding: 30px 0 30px 40px;
+  padding: 30px 40px 30px 40px;
   float: left;
   margin-right: 50px;
 }
@@ -2152,7 +2152,7 @@ body {
 
 @media screen and (max-width: 990px) {
   .main-navigation {
-    margin-left: 20px;
+    margin-left: 200px;
   }
 }
 @media screen and (max-width: 640px) {
@@ -2188,10 +2188,11 @@ body {
   .main-navigation .menu {
     display: none;
     position: absolute;
-    top: 80px;
+    top: 140px;
     left: 20px;
     right: 20px;
-    background: white;
+    border-radius: 55px;
+    background: #00000091;
     -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
             box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   }
@@ -2252,6 +2253,7 @@ body {
 
 .slider {
   position: relative;
+  margin-top: 200px;
 }
 .slider .slides {
   list-style: none;
