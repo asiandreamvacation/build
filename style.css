@@ -37,7 +37,7 @@ audio:not([controls]) {
 }
 
 html {
-  background: #ffffff;
+  background: #000fff05;
   color: black;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
