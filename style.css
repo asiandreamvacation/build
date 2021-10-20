@@ -1,10 +1,4 @@
-@media screen and (min-width: 0px) and (max-width: 720px) {
-  #my-content {
-    display: none;
-  }
 
-  /* hide it elsewhere */
-}
 
 
 
@@ -2284,7 +2278,7 @@ body {
 }
 
 .site-header .header-content {
-  background: #000fff;
+  background: #000fff1c;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 50px;
   *zoom: 1;
@@ -2495,7 +2489,7 @@ body {
 
 .slider {
   position: relative;
-  margin-top: 160px;
+  margin-top: 0px;
 }
 
 .slider .slides {
