@@ -2362,7 +2362,7 @@ body {
 
 .branding .site-title a {
   color: inherit;
-  text-decoration: none;
+  text-decoration: overline;
   font-style: italic;
 
   font-size: 18px;
