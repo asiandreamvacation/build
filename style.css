@@ -2363,11 +2363,14 @@ body {
 .branding .site-title a {
   color: inherit;
   text-decoration: none;
+  font-style: italic;
+
+  font-size: 18px;
 }
 
 .branding .site-description {
 
-  font-size: 10px;
+  
   font-size: 0.625em;
 }
 
