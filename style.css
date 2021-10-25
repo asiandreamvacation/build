@@ -2362,16 +2362,16 @@ body {
 
 .branding .site-title a {
   color: inherit;
-  text-decoration: overline;
+  text-decoration: none;
   font-style: italic;
-
-  font-size: 18px;
+  font-family: monospace, serif;
+  font-size: 30px;
 }
 
 .branding .site-description {
 
-  
   font-size: 0.625em;
+  
 }
 
 @media screen and (max-width: 990px) {
